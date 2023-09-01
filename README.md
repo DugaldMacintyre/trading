@@ -18,5 +18,5 @@ Implementation of trading strategies including Bollinger Bands, SMA, The Stochas
 ## Technologies Used <a name="technologies"></a>
 <a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /> </a>
 &nbsp; &nbsp;
-<a target="_blank" rel="noreferrer"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3APandas_logo.svg&psig=AOvVaw3JhbtGHOyVc_v74wvTCmWJ&ust=1693648364438000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCJC3kPuRiYEDFQAAAAAdAAAAABAD" height=40/> </a>
+<a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40" /> </a>
 &nbsp; &nbsp;
